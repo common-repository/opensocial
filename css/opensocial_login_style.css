@@ -1,0 +1,62 @@
+.opensocial_login_button_text {
+  color: #fff;
+  font-family: Arial;
+  font-size: 14px;
+  text-align: left;
+  font-style: normal;
+  font-weight: bold;
+  padding-top: 2px;
+  padding-right: 2px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  line-height: 1em;
+  box-sizing: border-box;
+  display: block;
+  background-color: unset;
+  position: relative;
+}
+
+.op-mb-icon {
+  color: #fff;
+  font-size: 20px;
+  text-align: left;
+  padding-top: 0px;
+  padding-right: 6px;
+  padding-bottom: 0px;
+  padding-left: 5px;
+  line-height: 20px;
+  display: inline-block;
+  background-color: unset;
+  box-shadow: none;
+  vertical-align: middle;
+}
+
+.opensocial_login_button {
+  position: relative;
+  text-decoration: none;
+  display: inline-block;
+  vertical-align: middle;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  background: #d93 !important;
+  height: auto !important;
+  /* 
+  border-width: 2px;
+  border-color: #d93;
+  -webkit-box-shadow: 0px 0px 2px 0px #333;
+  -moz-box-shadow: 0px 0px 2px 0px #333;
+  box-shadow: 0px 0px 2px 0px #333;
+  */
+  padding: 3px 10px 3px 3px !important;
+}
+
+.opensocial_login_button:hover {
+  background: rgba(30, 115, 190, 1) !important;
+}
+
+.op-social-font {
+  font-size: 19px !important;
+  vertical-align: middle;
+}
